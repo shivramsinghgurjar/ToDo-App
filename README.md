@@ -16,15 +16,16 @@ ToDo-App is a simple web application for task management. Users can easily manag
 ## 📸 Screenshots
 
 ### 📌 Initial View
-![Initial](./images/home.png)
+![landing page](https://github.com/user-attachments/assets/8b73a1cb-5fcc-48d7-b8aa-a3efd0039d56)
+
 
 ### 📝 Task Added
-![Added](./images/added.png)
+![Task Added](https://github.com/user-attachments/assets/af6bc98f-c3a7-4f55-9138-7f3acca41f04)
+
 
 ### ✅ Task Completed
-![Completed](./images/completed.png)
+![Task Completed](https://github.com/user-attachments/assets/78631b92-18f9-4f62-a2a8-3b27d9126cca)
 
-> *(Make sure to place the screenshots in an `images/` folder in the repository.)*
 
 ---
 
