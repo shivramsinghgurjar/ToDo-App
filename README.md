@@ -7,11 +7,6 @@ A beautiful, clean, and fully functional **To-Do List Application** built using 
 
 ---
 
-## 📖 About
-
-ToDo-App is a simple web application for task management. Users can easily manage their daily activities using this minimal and intuitive task tracker.
-
----
 
 ## 📸 Screenshots
 
